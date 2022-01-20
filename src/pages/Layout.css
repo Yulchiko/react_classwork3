@@ -1,0 +1,32 @@
+.Menu {
+
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Ul{
+    font-size: 40px;
+    display: flex;
+    text-decoration: none;
+    column-gap: 40px;
+    list-style: none;
+
+}
+.Router{
+    background-color: aqua;
+    max-height: 20px;
+    display: flex;
+    justify-content: right;
+    color: black;
+    padding-right: 20px;
+
+}
+.All{
+    width: 95%;
+    margin: 0 auto;
+    height: calc( 100vh - 90px);
+    overflow: hidden;
+    overflow-y: auto;
+}

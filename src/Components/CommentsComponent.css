@@ -1,0 +1,8 @@
+.Comments{
+    width: 600px;
+    height: 25px;
+    border: 1px solid #0a0a0a;
+    box-shadow: 0 0 5px black;
+    margin-top: 10px;
+    transform: translate(350px, 0px);
+}
