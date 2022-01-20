@@ -1,0 +1,11 @@
+.Posts{
+     width: 400px;
+    text-align: center;
+    color: #070707;
+    display: flex;
+    margin-left: 200px;
+}
+.PostCom{
+display: flex;
+
+}

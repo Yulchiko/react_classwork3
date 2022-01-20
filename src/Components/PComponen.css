@@ -1,0 +1,9 @@
+.Id_title{
+    width: 400px;
+    height: 150px;
+    border: 1px solid #0c0c0c;
+    box-shadow: 0 0 5px black;
+    margin-top: 10px;
+    display: flex;
+
+}

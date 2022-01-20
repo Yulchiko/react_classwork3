@@ -1,0 +1,22 @@
+.Photos{
+      height: 150px;
+    border: 1px solid #0f100f;
+    box-shadow: 0 0 5px black;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.Thumbnail{
+width: 130px;
+    height: 130px;
+   float: left;
+    margin: 7px 0 7px 7px;
+    justify-content: left;
+    position: absolute;
+    }
+.Title{
+    float: right;
+    margin: 7px 0 7px 157px;
+    text-align: left;
+    position: relative;
+}
